@@ -6,8 +6,8 @@ This example shows you how to fetch a given caller's name from your CRM, and the
 
 ### Update the list of users
 Add your own phone number and name to the list:
-```json
-let users = [
+```javascript
+[
     {
         username: "admin",
         name: "Patrick Stewart",
